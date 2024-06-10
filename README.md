@@ -3,7 +3,7 @@
 Meu Nome e Matheus Gerim
 
 Q:Onde estou estudando
-- Alura
+- Alura e Youtube
 
 Q:Oque estou estudando
 - Nesse momento estou estudando Programação pela alura e Estudando a linguagem LUA 
