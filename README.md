@@ -1,16 +1,20 @@
-## Hi there 👋
+### Gerim Profile
 
-<!--
-**Mireg1107/mireg1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome e Matheus Gerim
 
-Here are some ideas to get you started:
+Q:Onde estou estudando
+-Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Q:Oque estou estudando
+-Nesse momento estou estudando Programação pela alura e Estudando a linguagem LUA 
+
+Q:Por que estou usando github 
+-Estou usando como ferramenta para me organizar e desmontrar meus projetos 
+
+### Meu contato
+
+gerimepic@gmail.com
+
+
+
+
